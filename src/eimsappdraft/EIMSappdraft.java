@@ -18,7 +18,7 @@ public class EIMSappdraft {
         final static String TEXTPANEL = "Card with JTextField";
 
         /* JOptionPane.showMessageDialog(null, "<html><br> Hello Welcome to EIMS,  "
-         + "<br> Your group is being populated ");
+         +      "<br> Your group is being populated ");
          */
         public static void main(String[] args) {
         }
